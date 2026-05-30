@@ -17,31 +17,30 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
-```javascript
-const ramakrishnan = {
-  name        : "Ramakrishnan A",
-  location    : "Tenkasi, Tamil Nadu, India 🇮🇳",
-  degree      : "B.E. Computer Science & Engineering (2023–2027)",
-  college     : "Ramco Institute of Technology",
-  stack       : ["MongoDB", "Express.js", "React.js", "Node.js"],
-  languages   : ["JavaScript", "C"],
-  tools       : ["GitHub", "VS Code", "Canva", "XAMPP"],
-  databases   : ["MongoDB", "MySQL"],
-  currentlyLearning: [
-    "Advanced React Patterns",
-    "System Design",
-    "TypeScript",
-  ],
-  funFact     : "I've built 10+ real-world projects as a freelancer! 🚀",
-  motto()     {
-    return "Code. Build. Deploy. Repeat.";
-  },
-};
-```
+### Hi, I'm Ramakrishnan! 👋
 
-<br clear="right"/>
+🌍 &nbsp;Based in **Tenkasi, Tamil Nadu, India**  
+🎓 &nbsp;Pursuing **B.E. CSE** at Ramco Institute of Technology *(2023–2027)*  
+💼 &nbsp;**Freelance Web Developer** — built 10+ real-world projects  
+🛠️ &nbsp;Stack: **MongoDB · Express.js · React.js · Node.js**  
+🗄️ &nbsp;Databases: **MongoDB · MySQL**  
+🧰 &nbsp;Tools: **GitHub · VS Code · Canva · XAMPP**  
+📖 &nbsp;Currently learning: **TypeScript · System Design · React Advanced Patterns**  
+🚀 &nbsp;Fun fact: *I've shipped 10+ client projects as a freelancer!*  
+💬 &nbsp;Motto: **"Code. Build. Deploy. Repeat."**
+
+</td>
+<td valign="top" width="45%">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding GIF"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
